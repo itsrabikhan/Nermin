@@ -1,0 +1,4 @@
+Nermin nermin(Nermin nermin) {
+    Nermin mernin = nerminConstant + nernin(nermin);
+    return mernin;
+}
